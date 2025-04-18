@@ -2,6 +2,35 @@
 
 This project is an AI-powered assistant that reads supply chain data, flags issues, and suggests improvements based on uploaded policy documents using LLM and RAG.
 
+## 💡 Transforming Supply Chain with GenAI
+
+In traditional supply chain management, professionals often rely on manual processes and static dashboards to identify issues like delays, stock shortages, or quality defects. These methods, while effective to an extent, can be time-consuming and may not provide real-time insights.
+
+---
+
+### 🚀 Enter Generative AI — A Game-Changer in Supply Chain
+
+### 📌 Why AI in Supply Chain?
+
+According to a study published in the *International Journal of Scientific Research and Management*, companies are increasingly leveraging **AI and Machine Learning** to:
+- Optimize delivery routes  
+- Predict delays  
+- Detect quality variances early on  
+
+📊 The adoption of these technologies has grown significantly, with the **AI market valued at around $2 trillion**.
+
+### 📈 Benefits Over Traditional Methods
+
+✅ **Real-Time Decision Making**  
+AI enables prompt execution of supply chain tasks, surpassing the capabilities of traditional setups.
+
+✅ **Predictive Analytics**  
+Machine Learning algorithms forecast demand and inventory needs with greater accuracy.
+
+✅ **Enhanced Efficiency**  
+Automation of routine tasks increases operational efficiency and reduces human error.
+
+
 ## 🧠 Use Case
 
 Businesses handle tons of supply chain data—stock levels, lead times, defect rates, and more. But:
@@ -18,11 +47,12 @@ This AI Assistant solves that using a hybrid approach:
 
 ## 🚀 Features
 
-✅ Read supply chain data from Excel/CSV  
-✅ Automatically flag delays, low stock, high defects, or demand  
-✅ Use a **PDF policy guide** as context (RAG)  
-✅ Get **tailored suggestions** from an LLM (OpenAI)  
-✅ Output in organized table for presentation or export
+In my recent project, I developed an **AI-powered assistant** that:
+
+📁 Analyzes supply chain data from Excel or CSV files  
+⚠️ Flags issues like high lead times, low stock levels, or high defect rates  
+📚 Uses RAG (Retrieval-Augmented Generation) to extract insights from a PDF policy document  
+💬 Generates **actionable suggestions** based on internal policy documents  
 
 ---
 
