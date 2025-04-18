@@ -1,4 +1,3 @@
-# GenAI-Supply-Chain-Assistant
 # 📦 GenAI Assistant for Supply Chain Optimization
 
 This project is an AI-powered assistant that reads supply chain data, flags issues, and suggests improvements based on uploaded policy documents using LLM and RAG.
